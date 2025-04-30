@@ -18,9 +18,9 @@
   # result <- QIC(model)
   # result
   # For criterion T1 to T6  see: https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/7d3047109fe6538e6b15788714782884.pdf
-  # T1 = QSIC(model,1,1)
-  # T2 = QSIC(model,1,0.5)
-  # T3 = QSIC(model,1,-0.5)
-  # T4 = QSIC(model,1,-1)
-  # T5 = QSIC(model,0.5,1)
-  # T6 = QSIC(model,0.5,-1)
+  # T1 = QIC(model,1,1)
+  # T2 = QIC(model,1,0.5)
+  # T3 = QIC(model,1,-0.5)
+  # T4 = QIC(model,1,-1)
+  # T5 = QIC(model,0.5,1)
+  # T6 = QIC(model,0.5,-1)
